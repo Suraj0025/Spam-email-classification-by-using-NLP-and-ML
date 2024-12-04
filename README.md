@@ -1,0 +1,1 @@
+This project uses Natural Language Processing (NLP) and Machine Learning (ML) to classify emails as spam or not spam. The aim is to accurately distinguish spam emails from legitimate ones by analyzing the content.
